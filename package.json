@@ -1,5 +1,5 @@
 {
-  "name": "routeMiddleware",
+  "name": "seneca-express-middleware",
   "version": "1.0.0",
   "description": "Some route middleware for seneca users",
   "main": "index.js",
