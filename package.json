@@ -1,0 +1,19 @@
+{
+  "name": "routeMiddleware",
+  "version": "1.0.0",
+  "description": "Some route middleware for seneca users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seneca",
+    "express"
+  ],
+  "author": "John O'Connor",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1",
+    "underscore": "^1.8.3"
+  }
+}
